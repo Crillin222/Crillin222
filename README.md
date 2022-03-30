@@ -1,5 +1,6 @@
 - 👋 Olá, meu nome é Iuri.
 - 🌱 No momento estou estudando html, css, bootstrap, ethical hacking e aws.
+- Cursando Cyber Security.
 
 
 <!---
