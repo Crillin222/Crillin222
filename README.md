@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Iuri.
 - 🌱 No momento estou estudando Java.
-- Cursando Cyber Security.
+- Cursando ADS.
 
 
 <!---
